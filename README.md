@@ -47,7 +47,7 @@ The goal is not only to achieve accurate predictions but also to improve transpa
 
 The model is deployed as a live web application using Streamlit:
 
-👉 https://liver-disease-app-mus9bxy5rbklsj2lykkg4x.streamlit.app/
+https://liver-disease-app-mus9bxy5rbklsj2lykkg4x.streamlit.app/
 
 ---
 
